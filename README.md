@@ -19,6 +19,8 @@
 
 ## Steps to run in your machine
 
+Go to https://developer.spotify.com/ and create your app and copy thar secret Id to your app
+
 #### Run the following commands
 ```
 npm i
